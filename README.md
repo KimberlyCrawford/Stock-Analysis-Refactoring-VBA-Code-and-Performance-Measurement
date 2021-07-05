@@ -10,10 +10,10 @@ The purpose of this project was to share analysis results of the original VBA sc
 Below are execution results for original and refactored script:
 
 ### Original Script for 2017
-https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/Stock_2017_Original_Runtime.jpg
+![Stock_2017_Original_Runtime.jpg](https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/Stock_2017_Original_Runtime.jpg)
 
 ### Original Script for 2018
-https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/Stock_2018_Original_Runtime.jpg
+![Stock_2018_Original_Runtime.jpg](https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/Stock_2018_Original_Runtime.jpg)
 
 ## Summary
 

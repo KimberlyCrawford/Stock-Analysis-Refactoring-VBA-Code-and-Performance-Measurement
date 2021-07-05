@@ -13,7 +13,7 @@ Below are execution results for original and refactored script:
 https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/Stock_2017_Original_Runtime.jpg
 
 ### Original Script for 2018
-Chart here
+https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/Stock_2018_Original_Runtime.jpg
 
 ## Summary
 

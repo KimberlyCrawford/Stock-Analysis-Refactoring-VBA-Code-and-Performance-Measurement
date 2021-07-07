@@ -4,7 +4,8 @@
 Visual Basic Applications (macros) within Microsoft Excel were created to analyze 2017 and 2018 stock performance for 12 different tickers of alternative energy. The original VBA script was refactored to compare VBS script runtime and measure performance.
 
 ### Purpose
-The purpose of this project was to share analysis results of the original VBA script versus refactoring the script when it comes to runtime speed. Advantages or disadvantages of refactoring code is listed in the Summary section below. 
+The purpose of this project was to share analysis results of the original VBA script versus refactoring the script when it comes to runtime speed. Advantages or disadvantages of refactoring code is listed in the Summary section below.
+#### Data: Original Analysis () versus Refactored Analysis ()
 
 ## Results: 
 Below are execution results for original and refactored script:

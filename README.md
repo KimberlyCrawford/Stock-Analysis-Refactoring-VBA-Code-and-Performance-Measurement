@@ -13,7 +13,7 @@ Below are execution results for original and refactored script:
 ![Stock_2017_Original_Runtime.jpg](https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/Stock_2017_Original_Runtime.jpg) ![Stock_2018_Original_Runtime.jpg](https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/Stock_2018_Original_Runtime.jpg)
 
 ### Refactored Scripts for 2017 and 2018
-![Stock_2017_Refactored_Runtime.jpg](https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/Stock_2017_Original_Runtime.jpg) ![Stock_2018_Refactored_Runtime.jpg](https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/Stock_2018_Original_Runtime.jpg)
+![Stock_2017_Refactored_Runtime.jpg](https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/Stock_2017_Refactored_Runtime.jpg) ![Stock_2018_Refactored_Runtime.jpg](https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/Stock_2018_Refactored_Runtime.jpg)
 
 ## Summary
 

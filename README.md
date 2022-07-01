@@ -1,10 +1,11 @@
 # Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement
 
 ## Overview of Project
-Visual Basic for Applications macros within Microsoft Excel were created to analyze 2017 and 2018 stock performance for 12 different tickers of alternative energy. The original VBA script was refactored to compare VBA script runtime and measure performance.
+Microsoft Excel macros using Visual Basic for Applications (VBA) were created to analyze 2017 and 2018 stock performance for 12 different tickers of alternative energy. The original VBA script was refactored to improve performance.
 
 ### Purpose
-The purpose of this project was to share analysis results of the original VBA script versus refactoring the script when it comes to runtime speed. Advantages or disadvantages of refactoring code is listed in the Summary section below.
+The purpose of this project was to compare the original VBA script to the refactored script and show improvement in runtime speed. 
+
 #### Data: Original Analysis (https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/green_stocks.xlsm) versus Refactored Analysis (https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/VBA_Challenge.xlsm)
 
 ## Results: 

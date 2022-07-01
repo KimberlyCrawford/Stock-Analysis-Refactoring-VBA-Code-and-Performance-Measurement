@@ -6,7 +6,7 @@ Microsoft Excel macros using Visual Basic for Applications (VBA) were created to
 ### Purpose
 The purpose of this project was to compare the original VBA script to the refactored script and show improvement in runtime speed. 
 
-#### Data: Original VBA Script (https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/Original_code.txt) versus Refactored VBA Script (https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/VBA_Challenge.xlsm)
+#### Data: Original VBA Script (https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/Original_code.txt) versus Refactored VBA Script (https://github.com/KimberlyCrawford/Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement/blob/main/Refactored_code.txt)
 
 ## Results: 
 Below are execution results for original and refactored script:

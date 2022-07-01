@@ -1,4 +1,5 @@
 # Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement
+A Refactoring Project for Code Efficiency
 
 ## Overview of Project
 Microsoft Excel macros using Visual Basic for Applications (VBA) were created to analyze 2017 and 2018 stock performance for 12 different tickers of alternative energy. The original VBA script was refactored to improve performance.

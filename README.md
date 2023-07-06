@@ -1,4 +1,4 @@
-# Stock-Analysis-Refactoring-VBA-Code-and-Performance-Measurement
+# Stock Analysis--Refactoring VBA Code and Performance Measurement
 A Refactoring Project for Code Efficiency
 
 ## Overview of Project
